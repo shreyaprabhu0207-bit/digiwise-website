@@ -1,0 +1,41 @@
+DIGIWISE WEBSITE – PROJECT GUIDE
+
+Project: AI Awareness and Healthy Social Media Habits for School Students
+
+HOW TO OPEN THE WEBSITE
+1. Extract the website ZIP file to a folder on your Windows laptop.
+2. Open the extracted DIGIWISE folder.
+3. Double-click index.html.
+4. The website opens in your default browser. Use the top navigation to move between pages.
+
+WEBSITE PAGES
+1. Home – project introduction, learning areas and a mini challenge.
+2. About – purpose, objectives, intended audience and project scope.
+3. AI Awareness – everyday AI examples, responsible-use guidance and a quiz.
+4. Healthy Social Media – thoughtful sharing, respectful communication and a scenario activity.
+5. Digital Footprint – personal-information guidance and an interactive privacy checklist.
+6. Fact-check Zone – four-step claim-checking planner and quiz.
+7. Digital Wellbeing – balanced technology habits and a self-reflection activity.
+8. Resources – external learning resources and a five-question knowledge check.
+
+TECHNOLOGIES
+- HTML5: page structure and content.
+- CSS3: colours, layout, reusable components and responsive design.
+- Vanilla JavaScript: navigation toggle, quiz feedback, scenario feedback and checklist interactions.
+
+IMPORTANT TECHNICAL NOTES
+- This is a static front-end website prototype.
+- It does not use a backend, database, login system or external API.
+- Quiz answers and scenario feedback are handled in the browser.
+- The privacy checklist may save its checked state in local browser storage on the same device/browser.
+- The website does not transmit checklist selections or quiz answers to the project team.
+- External resource links open the referenced organisations' websites.
+- The website is not publicly hosted. Opening index.html runs it locally on the laptop.
+
+BEFORE PRESENTATION
+- Open all eight pages once.
+- Try the mini challenge on the Home page.
+- Try the quiz on AI Awareness and Fact-check Zone.
+- Tick and reset the Digital Footprint privacy checklist.
+- Complete the Resources knowledge check.
+- If a page does not open, make sure the complete extracted DIGIWISE folder is kept together; do not move HTML files away from the css and js folders.
